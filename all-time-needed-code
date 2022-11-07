@@ -1,0 +1,7 @@
+// SCSS background image use
+=============================
+.icon-quote {
+  width: 64px;
+  height: 46px;
+  background-image: url(../../../../assets/images/current-theme/quote-icon2.png);
+}
